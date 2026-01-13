@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Cloudflare IP 优选监控
+# 🌐 Cloudflare Domain 排名监控
 
 <p>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </p>
 
-**每天自动推送 Cloudflare 优选域名 TOP 5 到 Telegram**
+**每天自动推送 Cloudflare 优选域名 TOP 5 到 您的Telegram Bot**
 
 <p>
   <a href="#-功能特性">功能特性</a> •
@@ -181,6 +181,9 @@ Cloudflare CDN 节点测速数据
 
 三网表现: 移动/联通/电信各自的延迟数据
 </details>
+
+
+## 感谢vps789.com提供的公开数据，本项目调用接口返回数据
 
 ## ⭐ Star
 如果这个项目对你有帮助，请点个 Star ⭐ 支持一下！
