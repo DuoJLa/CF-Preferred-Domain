@@ -120,7 +120,7 @@
 ```
 ### 修改推送数量
 
-编辑 scripts/notify.py 第 19 行：
+编辑 scripts/notify.py 第 22 行：
 
 ```yaml
 # 推送前 5 名
