@@ -191,6 +191,8 @@ Cloudflare CDN节点测速数据
 ## ⭐ Star
 如果这个项目对你有帮助，请点个 Star ⭐ 支持一下！
 
+[![Stargazers over time](https://starchart.cc/DuoJLa/CF-Preferred-Domain.svg?variant=adaptive)](https://starchart.cc/DuoJLa/CF-Preferred-Domain)
+
 
 
 
